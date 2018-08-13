@@ -1,6 +1,6 @@
 This is a shallow implementation of a GAN to help #HomelessEntrepreneurs NGO to turn around the lives of thousands of people who are homeless.
 
-We did a proof of concept and the beginning of a working prototype so www.homelessentrepreneurs.org can keep building the product within their organization.
+We did a proof of concept as part of #AISummerTGN, an AI bootcamp realised by www.saturdays.ai , also we did some preliminary work for what may be a working prototype in form of a webapp, so www.homelessentrepreneurs.org can keep building the product within their organization and help homeless people to improve their condition by showing them a snap of a possible future of themselves.
 
 Invertible Conditional GANs
 ===========================================
