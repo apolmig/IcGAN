@@ -1,3 +1,7 @@
+This is a shallow implementation of a GAN to help #HomelessEntrepreneurs NGO to turn around the lives of thousands of people who are homeless.
+
+We did a proof of concept and the beginning of a working prototype so www.homelessentrepreneurs.org can keep building the product within their organization.
+
 Invertible Conditional GANs
 ===========================================
 
